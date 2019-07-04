@@ -1,0 +1,4 @@
+bootstrap
+font-awesome
+jquery
+owl.carousel
